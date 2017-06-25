@@ -1,6 +1,6 @@
 # Bad MutatioN (BMN)
 
-Presentation: https://docs.google.com/presentation/d/1x9eSDz_M3nFdb4LovDShwnp9nWJR2DgZ_-fcHx4uHRI/edit?usp=sharing
+[Presentation](https://github.com/SVAI/BMN/blob/master/docs/BMN%20Presentation.pdf) 
 
 Identifying potential drugs for schwannomas. 
 
