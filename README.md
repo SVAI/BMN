@@ -7,10 +7,10 @@ Identifying potential drugs for schwannomas.
 
 Annotating patient's mutations using ANNOVAR software.
 
-## Identifying genes disregulated in schwannoma
+## Identifying genes dysregulated in schwannoma
 
-Find the mutated genes that overlap with 1732 genes reported up/down regulated 
-in a gene expressions study by Nielsen et al. https://www.ncbi.nlm.nih.gov/pubmed/11965276.
+Find the mutated genes that overlap with 1732 genes reported as up/down-regulated 
+in a gene expression study by Nielsen et al. https://www.ncbi.nlm.nih.gov/pubmed/11965276.
 
 ## Lit review
 
