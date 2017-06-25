@@ -1,0 +1,10 @@
+upstream
+downstream
+upstream;downstream
+downstream;upstream
+UTR5;UTR3
+UTR5
+UTR3
+UTR3;UTR5
+exonic
+splicing
