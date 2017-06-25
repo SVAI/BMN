@@ -1,5 +1,6 @@
-# BMN
-Bad MutatioN
+# Bad MutatioN (BMN)
+
+Presentation: https://docs.google.com/presentation/d/1x9eSDz_M3nFdb4LovDShwnp9nWJR2DgZ_-fcHx4uHRI/edit?usp=sharing
 
 Identifying potential drugs for schwannomas. 
 
